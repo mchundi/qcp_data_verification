@@ -1,0 +1,21 @@
+{
+  "orgName": "TestUser1",
+  "orgWebsite": "automation1.com",
+  "adminMail": "testuser1@automation1.com",
+  "licenseType": "Demo",
+  "components": [
+    {
+      "platform": "Browser",
+      "name": "ANDROIDSDK"
+    },
+    {
+      "platform": "Browser",
+      "name": "DASHSDK"
+    },
+    {
+      "platform": "Packager",
+      "name": "QPACKAGER"
+    }
+  ],
+  "salesLoginId": "9999"
+}
